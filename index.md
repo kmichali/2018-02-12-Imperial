@@ -611,5 +611,3 @@ and our administrator may contact you if we need any extra information.</h4>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
- 
-{% endcomment %}
