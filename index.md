@@ -226,18 +226,15 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   e.g., '2015-06-10-esu'.
 {% endcomment %}
 
-{% comment %}
-{% if page.collaborative_notes %}
-{% endcomment %}
+
 <hr/>
+
 <h2 id="setup">Class online document</h2>
 <p id="collaborative_notes">
   <b>We will use this <a href=" http://pad.software-carpentry.org/2018-02-12-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
 </p>
 
-{% comment %}
-{% endif %}
-{% endcomment %}
+
 <hr/>
 
 {% comment %}
